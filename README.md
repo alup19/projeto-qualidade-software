@@ -3,7 +3,7 @@
 ## 👥 Integrantes
 - Nome Completo:       — Matrícula:
 - Alberto Ucker Parker — 782410040
-- Eduardo Leal         — Matrícula
+- Eduardo Leal Soares  — 782410046
 
 ## 🎯 Objetivo do Repositório
 Este repositório reúne as atividades desenvolvidas na disciplina de Qualidade de Software, realizadas por meio da metodologia PBL.
