@@ -32,8 +32,8 @@ python -m playwright codegen https://local-eats-unisenac.vercel.app/
 
 ### 🔗 Link para o código gerado
 
-👉 https://github.com/seu-repositorio/tests/codegen_login.py
-👉 https://github.com/seu-repositorio/tests/codegen_restaurantes.py
+👉 https://github.com/alup19/projeto-qualidade-software/blob/main/docs/aula-10/testes/codegen_login.py
+👉 https://github.com/alup19/projeto-qualidade-software/blob/main/docs/aula-10/testes/codegen_restaurantes.py
 
 ### 🧠 Observações
 
@@ -47,8 +47,8 @@ python -m playwright codegen https://local-eats-unisenac.vercel.app/
 
 ### 🔗 Link para os testes
 
-👉 https://github.com/seu-repositorio/tests/test_login.py
-👉 https://github.com/seu-repositorio/tests/test_login.py
+👉 https://github.com/alup19/projeto-qualidade-software/blob/main/docs/aula-10/testes/test_login.py
+👉 https://github.com/alup19/projeto-qualidade-software/blob/main/docs/aula-10/testes/test_restaurantes.py
 
 
 ### 📌 O que os testes fazem?
@@ -65,19 +65,24 @@ python -m playwright codegen https://local-eats-unisenac.vercel.app/
 
 ## 🔹 4. Refatoração com Page Object Model (POM)
 
-### 🔗 Link para Page Object
+### 🔗 Link para os Page Objects
 
-👉 https://github.com/seu-repositorio/pages/login_page.py
+👉 https://github.com/alup19/projeto-qualidade-software/blob/main/docs/aula-10/pages/login_page.py
 
-### 🔗 Link para teste refatorado
+👉 https://github.com/alup19/projeto-qualidade-software/blob/main/docs/aula-10/pages/restaurantes_page.py
 
-👉 https://github.com/seu-repositorio/tests/test_login.py
+### 🔗 Link para os testes refatorados
+
+👉 https://github.com/alup19/projeto-qualidade-software/blob/main/docs/aula-10/testes/test_login.py
+
+👉 https://github.com/alup19/projeto-qualidade-software/blob/main/docs/aula-10/testes/test_restaurantes.py
 
 ### 🧠 Melhorias realizadas
 
-- Separação entre teste e lógica de UI  
-- Código mais organizado  
-- Maior reutilização  
+- Separação entre testes e lógica da interface  
+- Código mais organizado e reutilizável  
+- Redução da duplicação de código  
+- Melhor manutenção dos testes automatizados
 
 ---
 
