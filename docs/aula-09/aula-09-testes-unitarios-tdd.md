@@ -69,7 +69,7 @@ Aplica um desconto percentual sobre o valor do pedido.
 
 ---
 
-## 👤 Integrante 3 – Cálculo da taxa de entrega
+## 👤 Integrante 1 e 2 – Cálculo da taxa de entrega
 
 ### Arquivo da implementação
 `/src/aula-09/pages/entrega.py`
