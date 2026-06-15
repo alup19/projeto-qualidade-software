@@ -9,15 +9,23 @@
 
 ### Fluxo Atual da Equipe
 
-flowchart TD
-    A[Recebimento da Demanda] --> B[Análise dos Requisitos]
-    B --> C[Planejamento da Implementação]
-    C --> D[Desenvolvimento]
-    D --> E[Testes]
-    E --> F{Erros encontrados?}
-    F -- Sim --> G[Correções]
-    G --> E
-    F -- Não --> H[Entrega]
+Recebimento da Demanda
+          ↓
+Análise dos Requisitos
+          ↓
+Planejamento da Implementação
+          ↓
+Desenvolvimento
+          ↓
+       Testes
+          ↓
+   Erros encontrados?
+      ↙       ↘
+    Sim       Não
+     ↓          ↓
+ Correções    Entrega
+     ↓
+  Testes
 
 ## 2. Entradas, Atividades e Saídas
 
