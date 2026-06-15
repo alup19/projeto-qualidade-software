@@ -9,7 +9,6 @@
 
 ### Fluxo Atual da Equipe
 
-```mermaid
 flowchart TD
     A[Recebimento da Demanda] --> B[Análise dos Requisitos]
     B --> C[Planejamento da Implementação]
@@ -19,7 +18,6 @@ flowchart TD
     F -- Sim --> G[Correções]
     G --> E
     F -- Não --> H[Entrega]
-```
 
 ## 2. Entradas, Atividades e Saídas
 
